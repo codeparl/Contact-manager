@@ -6,7 +6,7 @@
 
 ## About this code
 
-This code example demonstrates how use an embedded database using apache derby.
+This code example demonstrates how to use an embedded database using apache derby.
 This program uses Swing framework for its GUI.
 
 
